@@ -57,8 +57,6 @@ The communication between the Bed Sensor, the app, and the monitor is facilitate
 
 In this setup, the Bed Sensor publishes the measured weight data to a specific MQTT topic or channel. Both the app and the monitor are subscribed to this channel, meaning they will receive real-time updates whenever the Bed Sensor publishes new data. This approach ensures that the alarm system is always responsive and up-to-date with the user's status on the bed.
 
-Credit : 
-
 
 ## The Monitor
 
